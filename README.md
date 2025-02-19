@@ -6,4 +6,5 @@ Página Home:
 
 Página Sobre:
 
-![Uploading printPortfolioSobreEnzo.png…]()
+
+![printPortfolioSobreEnzo](https://github.com/user-attachments/assets/df918567-858d-433c-a659-17b6e3f98e15)
