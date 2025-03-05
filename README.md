@@ -12,7 +12,9 @@ Página Sobre:
 Exemplos da responsividade:
 
 Iphone XR:
+
 ![image](https://github.com/user-attachments/assets/54a2a28f-42b0-4ef4-886e-53f4deb89707)
+
 
 ![image](https://github.com/user-attachments/assets/7455ea97-86a8-4778-90c5-79b11aa190f5)
 
